@@ -6,5 +6,4 @@ RISC-V CPU Design using TL-Verilog in Makerchip IDE :
 - You can simulate this RISC-V processors on Linux using GCC Compiler toolchain and iVerilog tool, using Verilog output of Makerchip IDE.
 - Updates and new features will be added to the CPU; this file is a simple base microprocessor.
 
-Arvin Delavari, Faraz Ghoreishy
-Iran University of Science and Technology
+Arvin Delavari , Faraz Ghoreishy - Iran University of Science and Technology
