@@ -4,10 +4,9 @@
 - Hardware description was done with TL-Verilog(Transaction Level Verilog)  using Makerchip IDE, which gives a better sense of timing abstraction.
 - You can simulate this RISC-V processors on Linux using GCC Compiler toolchain and iVerilog tool, using Verilog output of Makerchip IDE.
 - Updates and new features will be added to the CPU; this file is a simple base microprocessor.
-
 -Arvin Delavari , Faraz Ghoreishy - Iran University of Science and Technology
 
-# Verilog output and simulations
+## Verilog output and simulations
 - This repository includes Verilog files for macros used in TL-Verilog code and the main CPU code("RV32I CORE - Verilog" folder). 
 - System-Verilog is also supported in Makerchip IDE; so you can add other functions to the CPU TL-Verilog file in repository.
 - You can use the .v output to run C codes on the cpu using iverilog software in Linux.
