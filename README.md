@@ -1,4 +1,4 @@
-# RISCV-Core
+# RISCV CORE - RV32I
 ## RISC-V CPU Design using TL-Verilog in Makerchip IDE :
 - Design of a simple 32-bit RISC-V CPU using the base instruction set, RV32I (+5 stage pipeline).
 - Hardware description was done with TL-Verilog(Transaction Level Verilog)  using Makerchip IDE, which gives a better sense of timing abstraction.
