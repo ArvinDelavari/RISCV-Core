@@ -9,7 +9,7 @@ RISC-V CPU Design using TL-Verilog in Makerchip IDE :
 Arvin Delavari , Faraz Ghoreishy - Iran University of Science and Technology
 
 # Verilog output and simulations
-- This repository includes Verilog files for macros used in TL-Verilog code and the main CPU code. 
+- This repository includes Verilog files for macros used in TL-Verilog code and the main CPU code.("RV32I CORE - Verilog" folder) 
 System-Verilog is also supported in Makerchip IDE; so you can add other functions to the CPU TL-Verilog file in repository.
 - This RISC-V CPU executes a simple code in C (using iverilog software in Linux) as an example task. 
 - The code is "sum of 1 to n" for n=100. It takes 561 clock cycles for 304 instructions, which  gives us a CPI near 1.8 (close to standard RISC processors, nearly 1.4).
