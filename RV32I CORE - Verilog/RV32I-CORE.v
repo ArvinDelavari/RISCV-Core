@@ -26,7 +26,7 @@ genvar dmem, imem, xreg;
 // Signals declared top-level.
 //
 
-// For $passed.
+// For $passed. 
 logic L0_passed_a0;
 
 // For |cpu$br_tgt_pc.
