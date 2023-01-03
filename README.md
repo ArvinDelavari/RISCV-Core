@@ -15,4 +15,5 @@
 - The code is "sum of 1 to n" for n=100. It takes 561 clock cycles for 304 instructions, which  gives us a CPI near 1.8 (close to standard RISC processors, nearly 1.4).
 - You can use run.sh to install RISC-V toolchain and GCC compiler. You need to install GCC compiler before running this shell-script(32/64bit). By using this toolchain you can compile C codes for RISC-V CPU to simulate them on iverilog software. You can also checkout assembly output of your code and use them for ABI.
 
-## Arvin Delavari , Faraz Ghoreishy - Iran University of Science and Technology
+## Arvin Delavari - Faraz Ghoreishy 
+### Iran University of Science and Technology
