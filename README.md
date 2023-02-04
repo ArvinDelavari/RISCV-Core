@@ -14,5 +14,6 @@
 - You can see RISC-V assembly instructions running on the CPU in VIZ tab in Makerchip IDE after compiling the code.
 - The code is "sum of 1 to n" for n=100. It takes 561 clock cycles for 304 instructions, which  gives us a CPI near 1.8 (close to standard RISC processors, nearly 1.4).
 - You can use run.sh to install RISC-V toolchain and GCC compiler. You need to install GCC compiler before running this shell-script(32/64bit). By using this toolchain you can compile C codes for RISC-V CPU to simulate them on iverilog software. You can also checkout assembly output of your code and use them for ABI.
+- picoRV32.v and testbench.v is an example code of RV32I processor in Verilog. You can check out the original repository in : https://github.com/YosysHQ/picorv32
 
 ## Arvin Delavari - Faraz Ghoreishy / Iran University of Science and Technology
