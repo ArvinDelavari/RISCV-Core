@@ -6,7 +6,6 @@
 \SV
    m4_makerchip_module   // (Expanded in Nav-TLV pane.)
 \TLV
-
    
    // Program for MYTH Workshop to test RV32I
    // Add 1,2,3,...,9 .
